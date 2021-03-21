@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+This is a link to [GitHub](http://github.com)
+
+**and** this is a [link](www.google.com) to google!
